@@ -1,1 +1,3 @@
 # ParallaxScrolling
+
+![ScreenShot](/screenshot.gif) 
